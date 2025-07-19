@@ -1,0 +1,25 @@
+
+THPT 2025 Crawler Results Summary
+================================
+
+Session Information:
+- Start Time: 2025-07-19T03:51:49.325882
+- End Time: 2025-07-19T09:31:02.219138
+- Session Directory: results\session_20250719_035149
+
+Statistics:
+- Total Processed: 1152908
+- Successful: 1152908
+- Failed: 0
+- Success Rate: 100.0%
+
+Subject Analysis:
+- Unique Subjects Found: 0
+- Most Common Subjects:
+
+Sample Results (first 5):
+  1. 01000001: No scores
+  2. 01000002: No scores
+  3. 01000003: No scores
+  4. 01000004: No scores
+  5. 01000005: No scores
