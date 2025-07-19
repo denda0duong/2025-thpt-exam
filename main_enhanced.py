@@ -178,11 +178,11 @@ class ApiCrawler:
             await self.initialize_scraper()
 
             # Parse starting number: 48034201 = council 48, student 034201
-            start_council = 48
-            start_student_number = 34201
+            start_council = 1
+            start_student_number = 1
 
             # Process all councils starting from the specified one
-            for council_num in range(start_council, 66):  # 48 to 65
+            for council_num in range(start_council, 66):  # 1 to 65
                 council_code = f"{council_num:02d}"
 
                 # For the first council, start from the specific student number
